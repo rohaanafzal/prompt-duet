@@ -39,7 +39,7 @@ flowchart LR
 ## Try it
 
 ```bash
-git clone https://github.com/<your-username>/prompt-duet.git
+git clone https://github.com/rohaanafzal/prompt-duet.git
 cd prompt-duet
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
