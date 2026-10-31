@@ -3,6 +3,7 @@ Set FontSize 16
 Set Width 1400
 Set Height 900
 Set Theme "Catppuccin Mocha"
+Set Shell "bash"
 
 Hide
 Type "source .venv/bin/activate && clear"
@@ -12,4 +13,4 @@ Show
 Type "python3 main.py 'write me a blog post about AI'"
 Sleep 500ms
 Enter
-Sleep 30s
+Sleep 40s
